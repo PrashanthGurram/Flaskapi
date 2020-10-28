@@ -16,99 +16,99 @@ def index():
     # email = fake.email()
     response = [
 {
-"Country": "United Kingdom",
-"Price": 1200,
-"Product": "Latitude"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United Kingdom"
 },
 {
-"Product": "Precision ",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Precision ",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "Australia"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Australia"
 },
 {
-"Product": "Precision ",
-"Price": 3600,
-"Country": "United States"
+"Legend": "Precision ",
+"Data": 3600,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Optiplex",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Optiplex",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "Israel"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Israel"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "France"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "France"
 },
 {
-"Product": "Precision ",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Precision ",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "Netherlands"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Netherlands"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Optiplex",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Optiplex",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "United States"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "Ireland"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Ireland"
 },
 {
-"Product": "Precision ",
-"Price": 1200,
-"Country": "Canada"
+"Legend": "Precision ",
+"Data": 1200,
+"Label": "Canada"
 },
 {
-"Product": "Latitude",
-"Price": 1200,
-"Country": "India"
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "India"
 },
 {
-"Product": "Precision ",
-"Price": 3600,
-"Country": "United Kingdom"
+"Legend": "Precision ",
+"Data": 3600,
+"Label": "United Kingdom"
 }
 ]
     # return name and email as a JSON httpresponse using jsonify
