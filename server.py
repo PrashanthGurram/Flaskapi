@@ -16,9 +16,9 @@ def index():
     # email = fake.email()
     response = [
 {
-"Product": "Latitude",
+"Country": "United Kingdom",
 "Price": 1200,
-"Country": "United Kingdom"
+"Product": "Latitude"
 },
 {
 "Product": "Precision ",
