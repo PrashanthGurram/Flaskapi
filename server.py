@@ -18,97 +18,116 @@ def index():
 {
 "Legend": "Latitude",
 "Data": 1200,
-"Label": "United Kingdom"
+"Label": "United Kingdom",
+"Title":"Sales Numbers for Dell Products"    
 },
 {
 "Legend": "Precision ",
 "Data": 1200,
-"Label": "United States"
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
 },
 {
 "Legend": "Latitude",
 "Data": 1200,
-"Label": "United States"
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
 },
 {
 "Legend": "Latitude",
 "Data": 1200,
-"Label": "Australia"
-},
-{
-"Legend": "Precision ",
-"Data": 3600,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Optiplex",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "Israel"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "France"
-},
-{
-"Legend": "Precision ",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "Netherlands"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Optiplex",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "United States"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "Ireland"
-},
-{
-"Legend": "Precision ",
-"Data": 1200,
-"Label": "Canada"
-},
-{
-"Legend": "Latitude",
-"Data": 1200,
-"Label": "India"
+"Label": "Australia",
+"Title":"Sales Numbers for Dell Products" 
 },
 {
 "Legend": "Precision ",
 "Data": 3600,
-"Label": "United Kingdom"
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Optiplex",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Israel",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "France",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Precision ",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Netherlands",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Optiplex",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "United States",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "Ireland",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Precision ",
+"Data": 1200,
+"Label": "Canada",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Latitude",
+"Data": 1200,
+"Label": "India",
+"Title":"Sales Numbers for Dell Products" 
+},
+{
+"Legend": "Precision ",
+"Data": 3600,
+"Label": "United Kingdom",
+"Title":"Sales Numbers for Dell Products" 
 }
 ]
     # return name and email as a JSON httpresponse using jsonify
